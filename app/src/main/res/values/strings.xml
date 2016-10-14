@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="timer_words">Timer:</string>
+    <string name="bomb_count_words">Bomb Count:</string>
+</resources>
