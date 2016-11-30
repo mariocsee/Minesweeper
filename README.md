@@ -1,5 +1,5 @@
 # Minesweeper
-This is a 5x5 Minesweeper Android game created for the Mobile Software Development class in AIT Budapest Fall 2016.
+This is a 5x5 Minesweeper Android game developed on Android Studio for the Mobile Software Development class in AIT Budapest Fall 2016.
 
 Features: 
 - Flagging tiles
